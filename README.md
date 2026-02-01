@@ -1,7 +1,7 @@
-## 📸 Instagram Fake vs Genuine User Detection
+# 📸 Instagram Fake vs Genuine User Detection
 Machine Learning + Streamlit Web App
 
-# 🔍 Project Overview
+## 🔍 Project Overview
 Fake Instagram accounts are widely used for spam, scams, and misinformation.
 This project builds a Machine Learning classification system to detect whether an Instagram account is Fake or Genuine based on profile-level features.
 
@@ -11,15 +11,15 @@ The project includes:
 - Command-line prediction
 - Interactive Streamlit web application
 
-# ⚙️Tech Stack
+## ⚙️Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - Joblib
 - Streamlit
-- Git & GitHub
+-Git & GitHub
 
-# 🤖Model Training
+## 🤖Model Training
 Algorithm: Random Forest Classifier
 Train/Test Split: 80/20
 
@@ -29,6 +29,6 @@ Precision
 Recall
 F1-Score
 
-# 📊Model Performance
+## 📊Model Performance
 Accuracy: ~94%
 The model performs well in identifying fake accounts with high recall and precision.
