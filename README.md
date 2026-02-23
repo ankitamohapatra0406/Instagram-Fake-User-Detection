@@ -11,7 +11,7 @@ The project includes:
 - Command-line prediction
 - Interactive Streamlit web application
 
-## ⚙️Tech Stack 
+## ⚙️Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
