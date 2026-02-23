@@ -1,5 +1,5 @@
 # 📸 Instagram Fake vs Genuine User Detection
-Machine Learning + Streamlit Web App
+Machine Learning + Streamlit Web App 
 
 ## 🔍 Project Overview
 Fake Instagram accounts are widely used for spam, scams, and misinformation.
