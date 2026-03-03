@@ -2,7 +2,7 @@
 Machine Learning + Streamlit Web App 
 
 ## 🔍 Project Overview 
-Fake Instagram accounts are widely used for spam, scams, and misinformation.
+Fake Instagram accounts are widely used for spam, scams, and misinformation. 
 This project builds a Machine Learning classification system to detect whether an Instagram account is Fake or Genuine based on profile-level features.
 
 The project includes: 
