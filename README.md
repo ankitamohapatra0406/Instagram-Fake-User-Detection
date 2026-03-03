@@ -6,7 +6,7 @@ Fake Instagram accounts are widely used for spam, scams, and misinformation.
 This project builds a Machine Learning classification system to detect whether an Instagram account is Fake or Genuine based on profile-level features.
 
 The project includes: 
-- Data preprocessing & EDA
+- Data preprocessing & EDA 
 - Model training & evaluation
 - Command-line prediction
 - Interactive Streamlit web application
