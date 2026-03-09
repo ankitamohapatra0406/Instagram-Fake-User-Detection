@@ -1,4 +1,4 @@
-# 📸 Instagram Fake vs Genuine User Detection 
+# 📸 Instagram Fake vs Genuine User Detection
 Machine Learning + Streamlit Web App   
 
 ## 🔍 Project Overview 
